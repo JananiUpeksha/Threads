@@ -12,9 +12,12 @@
         <module>CreateThreads</module>
         <module>Extend-Thread-Class</module>
         <module>Extend-Thread-Interface</module>
-        <module>Lambda-Expression</module>
-        <module>Join-isAlive</module>
         <module>Lambda</module>
+        <module>Join-and-isAlive</module>
+        <module>Tread-Priority</module>
+        <module>Synchronized-keyword</module>
+        <module>InterThreds-Communication</module>
+        <module>ThreadPool</module>
     </modules>
 
     <properties>

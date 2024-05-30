@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/CreateThreads/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CreateThreads/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Extend-Thread-Class/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Extend-Thread-Class/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Extend-Thread-Interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Extend-Thread-Interface/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/InterThreds-Communication/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/InterThreds-Communication/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Join-and-isAlive/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Join-and-isAlive/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Join-isAlive/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Join-isAlive/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lambda/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lambda/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Synchronized-keyword/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Synchronized-keyword/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ThreadPool/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ThreadPool/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Tread-Priority/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Tread-Priority/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
